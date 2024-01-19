@@ -1,7 +1,7 @@
 // you can write to stdout for debugging purposes, e.g.
 // console.log('this is a debug message');
 
-function solution(A: number[]): number {
+function solutions(A: number[]): number {
     const n = A.length
     let maxEnding = 0
     let maxProfit = 0
